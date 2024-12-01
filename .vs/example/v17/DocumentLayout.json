@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|c:\\users\\hp\\source\\repos\\example\\example\\example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|solutionrelative:example\\example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|c:\\users\\hp\\source\\repos\\example\\example\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|solutionrelative:example\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|c:\\users\\hp\\source\\repos\\example\\example\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|solutionrelative:example\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|c:\\users\\hp\\source\\repos\\example\\example\\model\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|solutionrelative:example\\model\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|c:\\users\\hp\\source\\repos\\example\\example\\model\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|solutionrelative:example\\model\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|c:\\users\\hp\\source\\repos\\example\\example\\model\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|solutionrelative:example\\model\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|c:\\users\\hp\\source\\repos\\example\\example\\example.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|solutionrelative:example\\example.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|c:\\users\\hp\\source\\repos\\example\\example\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC39C022-46E7-41B1-8E1C-0930FF8310EB}|example\\example.csproj|solutionrelative:example\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reviewer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Reviewer.cs",
+              "RelativeDocumentMoniker": "example\\Model\\Reviewer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Reviewer.cs",
+              "RelativeToolTip": "example\\Model\\Reviewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:48:44.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "example.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\example\\example\\example.csproj",
+              "RelativeDocumentMoniker": "example\\example.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\example\\example\\example.csproj",
+              "RelativeToolTip": "example\\example.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T20:46:46.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "example",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\example\\example\\example.csproj",
+              "RelativeDocumentMoniker": "example\\example.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\example\\example\\example.csproj",
+              "RelativeToolTip": "example\\example.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T20:46:51.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "example\\Model\\Review.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Review.cs",
+              "RelativeToolTip": "example\\Model\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:45:50.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "example\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Category.cs",
+              "RelativeToolTip": "example\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:44:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "example\\Model\\Country.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Country.cs",
+              "RelativeToolTip": "example\\Model\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:43:26.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Owner.cs",
+              "RelativeDocumentMoniker": "example\\Model\\Owner.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Owner.cs",
+              "RelativeToolTip": "example\\Model\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:41:30.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Pokemon.cs",
+              "RelativeDocumentMoniker": "example\\Model\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\example\\example\\Model\\Pokemon.cs",
+              "RelativeToolTip": "example\\Model\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:01:25.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
